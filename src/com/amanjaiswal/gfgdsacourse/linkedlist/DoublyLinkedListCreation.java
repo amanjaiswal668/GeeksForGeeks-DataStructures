@@ -2,7 +2,7 @@ package com.amanjaiswal.gfgdsacourse.linkedlist;
 
 public class DoublyLinkedListCreation {
 
-	void DoublyCreation() {
+	public void DoublyCreation() {
 		DoublyNode head = new DoublyNode(10);
 		DoublyNode temp1 = new DoublyNode(20);
 		DoublyNode temp2 = new DoublyNode(30);
